@@ -1,0 +1,29 @@
+# Local operating-system and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Python environments and caches
+.conda/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environment settings
+.env
+.env.*
+!.env.example
+
+# Generated project analysis
+/graphify-out/
+
+# September: commit only these three folders.
+/SEP26_LoeschArithmeticProgressions/*
+!/SEP26_LoeschArithmeticProgressions/cloud_results/
+!/SEP26_LoeschArithmeticProgressions/src/
+!/SEP26_LoeschArithmeticProgressions/submission_ready/
