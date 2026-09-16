@@ -24,6 +24,7 @@ __pycache__/
 
 # September: commit only these three folders.
 /SEP26_LoeschArithmeticProgressions/*
-!/SEP26_LoeschArithmeticProgressions/cloud_results/
+!/SEP26_LoeschArithmeticProgressions/cloud_results/length35_2026-09-10
 !/SEP26_LoeschArithmeticProgressions/src/
 !/SEP26_LoeschArithmeticProgressions/submission_ready/
+
